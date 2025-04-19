@@ -1,2 +1,1 @@
-# Cadastro-Python
-Criação de um programa em python para cadastro de pessoas
+O repositório "Cadastro-Python" contém um projeto desenvolvido em Python para o cadastro de pessoas. O objetivo do programa é permitir o armazenamento e gerenciamento de informações de indivíduos, como nome, idade e outros dados relevantes. O código foi desenvolvido utilizando Jupyter Notebook, uma ferramenta popular para programação interativa. Este projeto pode ser útil como um exemplo básico de como implementar sistemas de cadastro simples em Python.
